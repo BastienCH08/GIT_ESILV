@@ -12,7 +12,7 @@ app.title = "Dashboard"
 
 def serve_layout():
    # Dataframe preparation
-   df = pd.read_csv("/home/ubuntu/Projet/out.csv", header = None, sep = ';', decimal = ',')
+   df = pd.read_csv("/home/ubuntu/GIT_ESILV/Projet/out.csv", header = None, sep = ';', decimal = ',')
    df.columns = ["Date", "EUR/USD"]
    df["Date"] = pd.to_datetime(df["Date"], format= "%Y/%m/%d %H:%M")
    # Day by day

@@ -231,7 +231,7 @@ Euronext Paris
 <div class="paragraph paragraph--type-promo-004 paragraph--view-mode-default ds-1col clearfix">
 <div class="field field--name-bp-view field--type-viewsreference field--label-hidden field__items">
 <div class=field__item>
-<div class=views-element-container> <div class="view view-paragraphs-view-promo-004 view-id-paragraphs_view_promo_004 view-display-id-block_2 js-view-dom-id-93a3925e1b6ed69850df2553d438382fb9dee73f380c5277a109d0a6a6656abb">
+<div class=views-element-container> <div class="view view-paragraphs-view-promo-004 view-id-paragraphs_view_promo_004 view-display-id-block_2 js-view-dom-id-2eb20de3cca3678e6198130b8eedb300444009f87ccc01094c4eb7eabf36404c">
 <div class=view-content>
 <div class="slick blazy slick--view slick--view--paragraphs-view-promo-004 slick--view--paragraphs-view-promo-004--block-2 slick--view--paragraphs-view-promo-004-block-block-2 unslick slick--skin--default slick--optionset--promo-004 slick--less" data-blazy="" id=slick-views-paragraphs-view-promo-004-block-block-2-1>
 <div class="slick__slide slide slide--0">
@@ -273,7 +273,7 @@ Euronext Paris
 <use xlink:href="/themes/custom/euronext_live/frontend-library/public/assets//spritemap.svg#search"></use>
 </svg>
 </button>
-</div><input autocomplete=off data-drupal-selector=form-lsd6outd8uyl9dr0rh0vzensg5rp2eqjw0ziub2mjuu type=hidden name=form_build_id value=form-LsD6ouTd8uYl9DR0rh0vzeNSG5rP2eqjw0ZIuB2MjuU class=form-control />
+</div><input autocomplete=off data-drupal-selector=form-z8nnxaahxpu1t7baqctdxfeavvcaludj5hkondcobea type=hidden name=form_build_id value=form-Z8nnXAAHxpU1T7baQCtDxFEavVCalUDj5HkoNdcOBEA class=form-control />
 <input data-drupal-selector=edit-awl-search-box-home-mic-page-form type=hidden name=form_id value=awl_search_box_home_mic_page_form class=form-control />
 </form>
 </div>
@@ -351,10 +351,10 @@ CAC 40
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-6 991,07
+6 968,98
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--2,11
+-2,42
 %
 </td>
 </tr>
@@ -365,10 +365,10 @@ CAC ALL SHARES
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-8 697,65
+8 674,86
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,85
+-2,11
 %
 </td>
 </tr>
@@ -379,10 +379,10 @@ CAC NEXT 20
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-10 915,08
+10 869,38
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--2,04
+-2,46
 %
 </td>
 </tr>
@@ -393,10 +393,10 @@ CAC SMALL
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-12 301,22
+12 279,73
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,69
+-1,87
 %
 </td>
 </tr>
@@ -407,10 +407,10 @@ SBF 120
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-5 356,72
+5 338,00
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--2,04
+-2,39
 %
 </td>
 </tr>
@@ -459,10 +459,10 @@ EURONEXT 100
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-1 300,69
+1 296,75
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,78
+-2,08
 %
 </td>
 </tr>
@@ -473,10 +473,10 @@ CLIMATE EUROPE
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-1 660,37
+1 655,41
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,50
+-1,79
 %
 </td>
 </tr>
@@ -487,10 +487,10 @@ LOW CARBON 100
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-144,40
+144,01
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,22
+-1,49
 %
 </td>
 </tr>
@@ -515,10 +515,10 @@ ESG 80
 </a>
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-1 816,29
+1 810,33
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--1,48
+-1,81
 %
 </td>
 </tr>
@@ -565,10 +565,10 @@ Taux de Change
 EUR / USD
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-1,0683
+1,06736
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--0,46
+-0,55
 %
 </td>
 </tr>
@@ -577,10 +577,10 @@ EUR / USD
 EUR / GBP
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-0,88107
+0,88105
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--0,22
+-0,23
 %
 </td>
 </tr>
@@ -589,10 +589,10 @@ EUR / GBP
 EUR / JPY
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-143,172
+142,936
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--0,63
+-0,80
 %
 </td>
 </tr>
@@ -601,10 +601,10 @@ EUR / JPY
 EUR / CHF
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-0,98046
+0,98123
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--0,05
++0,03
 %
 </td>
 </tr>
@@ -613,10 +613,10 @@ EUR / CHF
 GBP / USD
 </td>
 <td name=lastPrice instrument-label="" class=" text-right  nowrap lastPrice  " data-column-key=lastPrice>
-1,2125
+1,21152
 </td>
 <td name=dayChangeRelative instrument-label="" class=" text-right  nowrap dayChangeRelative  " data-column-key=dayChangeRelative>
--0,23
+-0,31
 %
 </td>
 </tr>
@@ -643,8 +643,8 @@ GBP / USD
 <div class=card-header>
 <h3>Palmarès Paris</h3>
 </div>
-<div id=AwlTopPerfFactoryBlock_881 class=data-center-block>
-<div id=AwlTopPerf_881 class="live-data-container data-center-block card-body">
+<div id=AwlTopPerfFactoryBlock_5827 class=data-center-block>
+<div id=AwlTopPerf_5827 class="live-data-container data-center-block card-body">
 <div>
 <div class="icon_loading mr-2"><a href="#">
 <div class=icon_loading-arrow>&nbsp;</div>
@@ -654,7 +654,7 @@ GBP / USD
 </div>
 </div>
 </div>
-<div class="modal fade modal-off-canvas modal-off-canvas--filters modal-tpf" id=top-performers_881 tabindex=-1 value=881 role=dialog aria-labelledby=slideRightWithFilterMenuLabel aria-hidden=true>
+<div class="modal fade modal-off-canvas modal-off-canvas--filters modal-tpf" id=top-performers_5827 tabindex=-1 value=5827 role=dialog aria-labelledby=slideRightWithFilterMenuLabel aria-hidden=true>
 <div class=modal-dialog role=document>
 <div class="modal-filters awl-top-performers-modal-filters">
 <div class=modal-filters-inner id=AwlTopPerfPopupForm>
@@ -662,14 +662,14 @@ GBP / USD
 <h3 class=mb-0>Filters</h3>
 <div class=ml-auto>
 <a href="javascript:refresh_data();" id=awl_top_performers_filter_refresh class="hidden refresh">Actualiser</a>
-<a href="javascript:reset_filters(881);" id=awl_top_performers_filter_reset class=reset>Reset</a>
+<a href="javascript:reset_filters(5827);" id=awl_top_performers_filter_reset class=reset>Reset</a>
 </div>
 </div>
 <div class=form-group id=awl_top_performers_filter>
 <div class="mb-4 filter">
 <p><strong>Depuis</strong></p>
 <div class=dropdown__vanilla>
-<select id=awl_top_performers_since name=since class="reset-to-first form-control" onchange="refresh_top_perf_popup(881)">
+<select id=awl_top_performers_since name=since class="reset-to-first form-control" onchange="refresh_top_perf_popup(5827)">
 <option value=Yesterday>Séance précédente</option>
 <option value=OneMonth>Un mois</option>
 <option value=OneYear>Un an</option>
@@ -680,7 +680,7 @@ GBP / USD
 <div class="mb-4 filter ptype">
 <p><strong>Type de produit</strong></p>
 <div class=dropdown__vanilla>
-<select id=awl_top_performers_type name=tp_type class="reset-to-first form-control" onchange="refresh_top_perf_popup(881)">
+<select id=awl_top_performers_type name=tp_type class="reset-to-first form-control" onchange="refresh_top_perf_popup(5827)">
 <option value="">- Tout -</option>
 </select>
 </div>
@@ -688,7 +688,7 @@ GBP / USD
 <div class="mb-4 filter psubtype">
 <p><strong>Product subtype</strong></p>
 <div class=dropdown__vanilla>
-<select id=awl_top_performers_subtype name=tp_subtype class="reset-to-first form-control" onchange="refresh_top_perf_popup(881)">
+<select id=awl_top_performers_subtype name=tp_subtype class="reset-to-first form-control" onchange="refresh_top_perf_popup(5827)">
 <option value="">- Tout -</option>
 </select>
 </div>
@@ -727,9 +727,9 @@ GBP / USD
 <div class="col-md-6 mb-4">
 <nav>
 <div class="switch-tabs nav nav-tabs AwlTopPerfPopupLink">
-<a href="javascript:change_top_perf_tab_popup(881,'MostActive');" id=MostActive data-value=MostActive class="nav-item nav-link active">Plus actifs</a>
-<a href="javascript:change_top_perf_tab_popup(881,'Risers');" id=Risers class="nav-item nav-link" data-value=Risers>Hausses</a>
-<a href="javascript:change_top_perf_tab_popup(881,'Fallers');" id=Fallers class="nav-item nav-link" data-value=Fallers>Baisses</a>
+<a href="javascript:change_top_perf_tab_popup(5827,'MostActive');" id=MostActive data-value=MostActive class="nav-item nav-link active">Plus actifs</a>
+<a href="javascript:change_top_perf_tab_popup(5827,'Risers');" id=Risers class="nav-item nav-link" data-value=Risers>Hausses</a>
+<a href="javascript:change_top_perf_tab_popup(5827,'Fallers');" id=Fallers class="nav-item nav-link" data-value=Fallers>Baisses</a>
 </div>
 </nav>
 </div>
@@ -777,7 +777,7 @@ GBP / USD
 <div class=viewsreference--view-title>
 Indices Francais
 </div>
-<div class=views-element-container> <div class="view view-charts-as-blocs view-id-charts_as_blocs view-display-id-block_3 js-view-dom-id-c66f4f913ed8f83b95c5beed1a21f4c2958bdc107e09e1a6e9b0ec7b124885bf">
+<div class=views-element-container> <div class="view view-charts-as-blocs view-id-charts_as_blocs view-display-id-block_3 js-view-dom-id-0ffcd2d92de66da6216d529aa2c24bf92bcec9c05c45c3622ea5a7613ffac335">
 <div class=view-content>
 <div class="slick blazy slick--view slick--view--charts-as-blocs slick--view--charts-as-blocs--block-3 slick--view--charts-as-blocs-block-block-3 slick--optionset--promo-004" data-blazy="" id=slick-views-charts-as-blocs-block-block-3-2>
 <div id=slick-views-charts-as-blocs-block-block-3-2-slider data-slick="{&quot;mobileFirst&quot;:true,&quot;lazyLoad&quot;:&quot;blazy&quot;}" class=slick__slider>
@@ -1204,7 +1204,7 @@ Marchés dérivés
 <div class=viewsreference--view-title>
 Euronext Paris
 </div>
-<div class=views-element-container> <div class="view view-content-cards view-id-content_cards view-display-id-block_4 js-view-dom-id-a4c0f6add65e9671244e35c792acb7a133e2abb475d7ce57f02e591e2290c5de">
+<div class=views-element-container> <div class="view view-content-cards view-id-content_cards view-display-id-block_4 js-view-dom-id-9e6cf362715cd33f25e81f7e3c4956adc14ad111e04f07ccdb7195114a51318f">
 <div class=view-header>
 </div>
 <div class=view-content>
@@ -1292,7 +1292,7 @@ Voir tout
 </ul>
 </div>
 <div id=success-save></div>
-<div class="test-cpr view view-company-press-releases-view view-id-company_press_releases_view view-display-id-cpr_latest js-view-dom-id-e81b07a732c6b5e0ac575b84a7b89da14b7182029005ec43763297fd4930b060 container-full">
+<div class="test-cpr view view-company-press-releases-view view-id-company_press_releases_view view-display-id-cpr_latest js-view-dom-id-5bbb9219a13d5c301c98cb1afd04580888cd504d0011e2f024fba36ff85a86a7 container-full">
 <div class="mb-4  text-left" id=awlCompanyPressReleases-pageFilters>
 <div class="card-body ">
 <div class="bg-white pb-0">
@@ -2926,7 +2926,7 @@ Voir tout
 </li>
 </ul>
 </div></div>
-<script type="application/json" data-drupal-selector=drupal-settings-json>{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node\/117567","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/am___hide__subscribe_regulated_news,asset_injector\/css\/am__fixytd_fplextoslo_438,asset_injector\/css\/am_cookie_compliance,asset_injector\/css\/am_currency_size_in_pds,asset_injector\/css\/am_esg_funds_table,asset_injector\/css\/am_fix_logos_height_on_instrument_pages,asset_injector\/css\/am_hide_german_language_switcher,asset_injector\/css\/am_index_documents,asset_injector\/css\/am_index_news,asset_injector\/css\/am_oslo_financial_events_hide_second_see_all_button_fplextoslo_3,asset_injector\/css\/am_theme_synch_issues_fix,asset_injector\/css\/am_views_mobile,asset_injector\/css\/css_adjustements_to_be_reintegrated_in_theme_validated,asset_injector\/css\/fix_menu_on_ie,asset_injector\/css\/in_page_quote_search,asset_injector\/css\/limit_promo_004_height_except_on_home_page,asset_injector\/css\/not_logged_in_menu_nolink_items_colors,asset_injector\/css\/pd_es_hide_traded_today_in_title_datapoints,asset_injector\/css\/sc_adjustement_on_derivatives_top_performer_block_contract_name_,asset_injector\/css\/secondary_navigation_temporary_before_theming,asset_injector\/css\/temp_css_adjustements_to_be_reintegrated_in_the_theme,asset_injector\/css\/temporary_fix_disable_links_cor_reports_html,asset_injector\/css\/textual_paragraph,asset_injector\/css\/view_filters,asset_injector\/css\/web_team_sc_intraday_off_canvas_download_feature_removal,asset_injector\/css\/web_team_sc_specific_product_directory_indices_no_currency,asset_injector\/css\/webteam_sc_temporay_removal_of_pop_out_at_instrument,asset_injector\/css\/webteam_specific_elio_fixed_header_body_min_height,asset_injector\/css\/webteam_specific_elio_underlying_accordion,asset_injector\/js\/webteam_specific_elio_underlying_accordion,awl_block_factory\/awl-block-factory,awl_company_press_releases\/awl-company-pr-off-canvas,awl_mobile_search_menu\/awl-mobile-search-menu,awl_search_box\/awl_search_box,awl_search_box_mic_page\/awl_search_box_mic_page,awl_top_performers\/awl-top-performers-block,awl_top_performers_derivatives\/awl-top-performers-derivatives-block,awl_tophat\/awl-tophat-lc,blazy\/bio.ajax,blazy\/blazy,blazy\/classlist,blazy\/load,blazy\/loading,blazy\/polyfill,blazy\/promise,blazy\/raf,blazy\/webp,bootstrap_barrio\/breadcrumb,bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_paragraphs\/bootstrap-paragraphs,bootstrap_sass\/global-styling,core\/drupal.autocomplete,cpr_issuer_view\/cpr-issuer-view-rn-full,datalayer\/behaviors,ds\/ds_2col,dynamic_quotes_display\/quote-field,eu_cookie_compliance\/eu_cookie_compliance_default,euronext_live\/global-styling,extlink\/drupal.extlink,paragraphs\/drupal.paragraphs.unpublished,slick\/slick.load,slick\/slick.main.default,system\/base,twitter_embed\/twitter_widgets,views\/views.ajax,views\/views.module","theme":"euronext_live","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim-black","modifyViewport":true,"use_bootstrap":false,"breakpoint":"(min-width: 960px)","drag":false},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10},"fr":{"id":"fr","name":"French","direction":"ltr","weight":-9},"nb":{"id":"nb","name":"Norv\u00e9gien classique","direction":"ltr","weight":-8},"nl":{"id":"nl","name":"Dutch","direction":"ltr","weight":-7},"pt-pt":{"id":"pt-pt","name":"Portuguese, Portugal","direction":"ltr","weight":-6},"de":{"id":"de","name":"Allemand","direction":"ltr","weight":-5},"it":{"id":"it","name":"Italien","direction":"ltr","weight":-4}}},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.1","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EThis website uses cookies to improve user experience.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EStrictly Necessary Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003ENecessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-performance\u0022\n                     value=\u0022performance\u0022\n                                           \u003E\n              \u003Clabel for=\u0022cookie-category-performance\u0022\u003EPerformance Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022eu-cookie-compliance-save-preferences-button \u0022\u003ESave preferences\u003C\/button\u003E\n          \u003C\/div\u003E\n              \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003ERetirer le consentement\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EStrictly Necessary Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003ENecessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-performance\u0022\n                     value=\u0022performance\u0022\n                                           \u003E\n              \u003Clabel for=\u0022cookie-category-performance\u0022\u003EPerformance Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022eu-cookie-compliance-save-preferences-button \u0022\u003ESave preferences\u003C\/button\u003E\n          \u003C\/div\u003E\n              \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003ERetirer le consentement\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.euronext.com\/en\/privacy-statement","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":true,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"necessary:__cfduid\r\nperformance:_ga*\r\nperformance:_gat*\r\nperformance:_gid*\r\nperformance:_hjid\r\nperformance:_hjFirstSeen\r\n__cfduid","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EParam\u00e8tres de confidentialit\u00e9\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003ENous utilisons des cookies sur ce site pour am\u00e9liorer votre exp\u00e9rience d\u0027utilisateur.\u003C\/h2\u003E\u003Cp\u003EVous avez consenti \u00e0 l\u0027ajout de cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003ERetirer le consentement\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["necessary","performance"],"cookie_categories_details":{"necessary":{"uuid":"10561f2b-9368-4e5a-855f-001d59b7bada","langcode":"en","status":true,"dependencies":[],"id":"necessary","label":"Strictly Necessary Cookies","description":"Necessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.","checkbox_default_state":"required","weight":-9},"performance":{"uuid":"426ff374-4077-49be-a74c-07438312e707","langcode":"en","status":true,"dependencies":[],"id":"performance","label":"Performance Cookies","description":"These cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.","checkbox_default_state":"unchecked","weight":-8}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"views":{"ajax_path":"\/fr\/views\/ajax","ajaxViews":{"views_dom_id:e81b07a732c6b5e0ac575b84a7b89da14b7182029005ec43763297fd4930b060":{"view_name":"company_press_releases_view","view_display_id":"cpr_latest","view_args":"408\/Communiques reglementes","view_path":"\/node\/117567","view_base_path":"listview\/company-press-releases","view_dom_id":"e81b07a732c6b5e0ac575b84a7b89da14b7182029005ec43763297fd4930b060","pager_element":0,"viewsreference":{"data":{"title":"1","argument":"408\/Communiques reglementes"},"enabled_settings":{"argument":"argument","title":"title"}}},"views_dom_id:c66f4f913ed8f83b95c5beed1a21f4c2958bdc107e09e1a6e9b0ec7b124885bf":{"view_name":"charts_as_blocs","view_display_id":"block_3","view_args":"447,475,476,477,478\/Indices Francais","view_path":"\/node\/117567","view_base_path":null,"view_dom_id":"c66f4f913ed8f83b95c5beed1a21f4c2958bdc107e09e1a6e9b0ec7b124885bf","pager_element":0,"viewsreference":{"data":{"title":"1","argument":"447,475,476,477,478\/Indices Francais"},"enabled_settings":{"argument":"argument","title":"title"}}}}},"custom":{"language":"fr","product_data":"-","tpf_derivatives":{"bjq7jm":{"tp_mics_derivatives":"DPAR","tp_perm_derivatives":null,"tp_column_display":null,"is_derivatives":true,"tp_displayed_columns":["subtype","volume"],"tp_type":"","filter_type":[],"tp_subtype":"DIFUT,IDFUT,IDOPT","filter_subtype":{"DIFUT":"Dividend Index Futures","IDFUT":"Index Future","IDOPT":"Index Option"},"tp_info_derivatives":0},"2eope0g":{"tp_mics_derivatives":"DPAR","tp_perm_derivatives":null,"tp_column_display":null,"is_derivatives":true,"tp_displayed_columns":["subtype","volume"],"tp_type":"","filter_type":[],"tp_subtype":"DSFUT,SSFUT,SKOPT","filter_subtype":{"DSFUT":"Dividend Stock Futures","SSFUT":"Stock Future","SKOPT":"Stock Option"},"tp_info_derivatives":0}},"tpf":{"881":{"tp_mics":"XPAR,ALXP,XMLI","tp_perm":"all","tp_column_display":null,"tp_show_filter":"","is_factory":true,"tp_type":"STOCK","filter_type":[],"tp_subtype":"0101","filter_subtype":[],"tp_info":""}},"asset_files_path":"\/themes\/custom\/euronext_live\/frontend-library\/public\/assets\/"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"loader":true,"unblazy":null},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.34999999999999998,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"baseUrlSearchQuote":"\/fr\/search_instruments\/","dynamic_quotes_display":{"config":{"timer":30}},"globalRefresh":30000,"cas_login_url":"\/fr\/caslogin","user":{"uid":0,"permissionsHash":"1241600408ee5ef11a9f7d6ee57e5e5cfb3456b03eceaf2315cbfafca3b0413d"}}</script>
+<script type="application/json" data-drupal-selector=drupal-settings-json>{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node\/117567","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/am___hide__subscribe_regulated_news,asset_injector\/css\/am__fixytd_fplextoslo_438,asset_injector\/css\/am_cookie_compliance,asset_injector\/css\/am_currency_size_in_pds,asset_injector\/css\/am_esg_funds_table,asset_injector\/css\/am_fix_logos_height_on_instrument_pages,asset_injector\/css\/am_hide_german_language_switcher,asset_injector\/css\/am_index_documents,asset_injector\/css\/am_index_news,asset_injector\/css\/am_oslo_financial_events_hide_second_see_all_button_fplextoslo_3,asset_injector\/css\/am_theme_synch_issues_fix,asset_injector\/css\/am_views_mobile,asset_injector\/css\/css_adjustements_to_be_reintegrated_in_theme_validated,asset_injector\/css\/fix_menu_on_ie,asset_injector\/css\/in_page_quote_search,asset_injector\/css\/limit_promo_004_height_except_on_home_page,asset_injector\/css\/not_logged_in_menu_nolink_items_colors,asset_injector\/css\/pd_es_hide_traded_today_in_title_datapoints,asset_injector\/css\/sc_adjustement_on_derivatives_top_performer_block_contract_name_,asset_injector\/css\/secondary_navigation_temporary_before_theming,asset_injector\/css\/temp_css_adjustements_to_be_reintegrated_in_the_theme,asset_injector\/css\/temporary_fix_disable_links_cor_reports_html,asset_injector\/css\/textual_paragraph,asset_injector\/css\/view_filters,asset_injector\/css\/web_team_sc_intraday_off_canvas_download_feature_removal,asset_injector\/css\/web_team_sc_specific_product_directory_indices_no_currency,asset_injector\/css\/webteam_sc_temporay_removal_of_pop_out_at_instrument,asset_injector\/css\/webteam_specific_elio_fixed_header_body_min_height,asset_injector\/css\/webteam_specific_elio_underlying_accordion,asset_injector\/js\/webteam_specific_elio_underlying_accordion,awl_block_factory\/awl-block-factory,awl_company_press_releases\/awl-company-pr-off-canvas,awl_mobile_search_menu\/awl-mobile-search-menu,awl_search_box\/awl_search_box,awl_search_box_mic_page\/awl_search_box_mic_page,awl_top_performers\/awl-top-performers-block,awl_top_performers_derivatives\/awl-top-performers-derivatives-block,awl_tophat\/awl-tophat-lc,blazy\/bio.ajax,blazy\/blazy,blazy\/classlist,blazy\/load,blazy\/loading,blazy\/polyfill,blazy\/promise,blazy\/raf,blazy\/webp,bootstrap_barrio\/breadcrumb,bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_paragraphs\/bootstrap-paragraphs,bootstrap_sass\/global-styling,core\/drupal.autocomplete,cpr_issuer_view\/cpr-issuer-view-rn-full,datalayer\/behaviors,ds\/ds_2col,dynamic_quotes_display\/quote-field,eu_cookie_compliance\/eu_cookie_compliance_default,euronext_live\/global-styling,extlink\/drupal.extlink,paragraphs\/drupal.paragraphs.unpublished,slick\/slick.load,slick\/slick.main.default,system\/base,twitter_embed\/twitter_widgets,views\/views.ajax,views\/views.module","theme":"euronext_live","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim-black","modifyViewport":true,"use_bootstrap":false,"breakpoint":"(min-width: 960px)","drag":false},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10},"fr":{"id":"fr","name":"French","direction":"ltr","weight":-9},"nb":{"id":"nb","name":"Norv\u00e9gien classique","direction":"ltr","weight":-8},"nl":{"id":"nl","name":"Dutch","direction":"ltr","weight":-7},"pt-pt":{"id":"pt-pt","name":"Portuguese, Portugal","direction":"ltr","weight":-6},"de":{"id":"de","name":"Allemand","direction":"ltr","weight":-5},"it":{"id":"it","name":"Italien","direction":"ltr","weight":-4}}},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.1","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EThis website uses cookies to improve user experience.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EStrictly Necessary Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003ENecessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-performance\u0022\n                     value=\u0022performance\u0022\n                                           \u003E\n              \u003Clabel for=\u0022cookie-category-performance\u0022\u003EPerformance Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022eu-cookie-compliance-save-preferences-button \u0022\u003ESave preferences\u003C\/button\u003E\n          \u003C\/div\u003E\n              \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003ERetirer le consentement\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EStrictly Necessary Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003ENecessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-performance\u0022\n                     value=\u0022performance\u0022\n                                           \u003E\n              \u003Clabel for=\u0022cookie-category-performance\u0022\u003EPerformance Cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-category-description\u0022\u003EThese cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\u003C\/div\u003E\n                      \u003C\/div\u003E\n                          \u003Cdiv class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022\n                    class=\u0022eu-cookie-compliance-save-preferences-button \u0022\u003ESave preferences\u003C\/button\u003E\n          \u003C\/div\u003E\n              \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAccept all cookies\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden\u0022\u003ERetirer le consentement\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.euronext.com\/en\/privacy-statement","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":true,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"necessary:__cfduid\r\nperformance:_ga*\r\nperformance:_gat*\r\nperformance:_gid*\r\nperformance:_hjid\r\nperformance:_hjFirstSeen\r\n__cfduid","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EParam\u00e8tres de confidentialit\u00e9\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003ENous utilisons des cookies sur ce site pour am\u00e9liorer votre exp\u00e9rience d\u0027utilisateur.\u003C\/h2\u003E\u003Cp\u003EVous avez consenti \u00e0 l\u0027ajout de cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003ERetirer le consentement\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["necessary","performance"],"cookie_categories_details":{"necessary":{"uuid":"10561f2b-9368-4e5a-855f-001d59b7bada","langcode":"en","status":true,"dependencies":[],"id":"necessary","label":"Strictly Necessary Cookies","description":"Necessary for the website to function and cannot be switched off. You can set your browser to block these cookies, but some parts of the site will not work as a result.","checkbox_default_state":"required","weight":-9},"performance":{"uuid":"426ff374-4077-49be-a74c-07438312e707","langcode":"en","status":true,"dependencies":[],"id":"performance","label":"Performance Cookies","description":"These cookies allow us to count visits and traffic sources to allow us to improve the performance of our site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.","checkbox_default_state":"unchecked","weight":-8}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"views":{"ajax_path":"\/fr\/views\/ajax","ajaxViews":{"views_dom_id:5bbb9219a13d5c301c98cb1afd04580888cd504d0011e2f024fba36ff85a86a7":{"view_name":"company_press_releases_view","view_display_id":"cpr_latest","view_args":"408\/Communiques reglementes","view_path":"\/node\/117567","view_base_path":"listview\/company-press-releases","view_dom_id":"5bbb9219a13d5c301c98cb1afd04580888cd504d0011e2f024fba36ff85a86a7","pager_element":0,"viewsreference":{"data":{"title":"1","argument":"408\/Communiques reglementes"},"enabled_settings":{"argument":"argument","title":"title"}}},"views_dom_id:0ffcd2d92de66da6216d529aa2c24bf92bcec9c05c45c3622ea5a7613ffac335":{"view_name":"charts_as_blocs","view_display_id":"block_3","view_args":"447,475,476,477,478\/Indices Francais","view_path":"\/node\/117567","view_base_path":null,"view_dom_id":"0ffcd2d92de66da6216d529aa2c24bf92bcec9c05c45c3622ea5a7613ffac335","pager_element":0,"viewsreference":{"data":{"title":"1","argument":"447,475,476,477,478\/Indices Francais"},"enabled_settings":{"argument":"argument","title":"title"}}}}},"custom":{"language":"fr","product_data":"-","tpf_derivatives":{"bjq7jm":{"tp_mics_derivatives":"DPAR","tp_perm_derivatives":null,"tp_column_display":null,"is_derivatives":true,"tp_displayed_columns":["subtype","volume"],"tp_type":"","filter_type":[],"tp_subtype":"DIFUT,IDFUT,IDOPT","filter_subtype":{"DIFUT":"Dividend Index Futures","IDFUT":"Index Future","IDOPT":"Index Option"},"tp_info_derivatives":0},"2eope0g":{"tp_mics_derivatives":"DPAR","tp_perm_derivatives":null,"tp_column_display":null,"is_derivatives":true,"tp_displayed_columns":["subtype","volume"],"tp_type":"","filter_type":[],"tp_subtype":"DSFUT,SSFUT,SKOPT","filter_subtype":{"DSFUT":"Dividend Stock Futures","SSFUT":"Stock Future","SKOPT":"Stock Option"},"tp_info_derivatives":0}},"tpf":{"5827":{"tp_mics":"XPAR,ALXP,XMLI","tp_perm":"all","tp_column_display":null,"tp_show_filter":"","is_factory":true,"tp_type":"STOCK","filter_type":[],"tp_subtype":"0101","filter_subtype":[],"tp_info":""}},"asset_files_path":"\/themes\/custom\/euronext_live\/frontend-library\/public\/assets\/"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"loader":true,"unblazy":null},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.34999999999999998,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"baseUrlSearchQuote":"\/fr\/search_instruments\/","dynamic_quotes_display":{"config":{"timer":30}},"globalRefresh":30000,"cas_login_url":"\/fr\/caslogin","user":{"uid":0,"permissionsHash":"1241600408ee5ef11a9f7d6ee57e5e5cfb3456b03eceaf2315cbfafca3b0413d"}}</script>
 <script src="//api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.9/svg4everybody.legacy.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
